@@ -5,15 +5,15 @@ return `┏━━━━━━━━━━━━━━━━━━━━
 ┣━━⊱❉ *💰 E-WALLET* ❉⊰━━━✿
 ┃   
 ┣━⊱ *GOPAY*
-┣⊱ 0899 0000 0000
+┣⊱ 0856 4981 2379
 ┣━━✿ NAMA GOPAY ${ownername}
 ┃
 ┣━⊱ *DANA*
-┣⊱ 0899 0000 0000
+┣⊱ CLOSE
 ┣━━✿ NAMA DANA ${ownername}
 ┃
 ┣━⊱ *PULSA*
-┣⊱ 0899 0000 0000
+┣⊱ 0856 4981 2379
 ┣━━✿ NAMA PULSA ${ownername}
 ┃
 ┗━━━━━━━━━━━━━━━━━━━━
